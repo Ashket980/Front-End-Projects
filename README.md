@@ -145,7 +145,7 @@ A modern design concept to showcase content in a container with two splitted sec
   
 ### Escape Loading Animation - CSS
 
-Cool loading animation with pure CSS. Animation contains sliding and floating boxes, designed by [Vitaly Silkin](https://dribbble.com/shots/4268258-Evitare-loader).
+Cool loading animation with pure CSS. Animation contains sliding and floating boxes,
 
 **[Online Demo](https://behnamazimi.github.io/simple-web-projects/css-escape-loading-animation/)**
 
