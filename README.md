@@ -27,6 +27,7 @@ There are 9 developed projects that you can review now.
   - [Split Screen](#split-screen)
   - [Escape Loading Animation](#escape-loading-animation---css)
 
+
 ### Custom Video Player 
 
 In this project I customized the video controls and designed them manually. Focus on handling the video node and how to implement custom behavior for it.
