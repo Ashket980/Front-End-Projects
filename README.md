@@ -33,7 +33,7 @@ There are 9 developed projects that you can review now.
 
 In this project I customized the video controls and designed them manually. Focus on handling the video node and how to implement custom behavior for it.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/custom-video-player/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/01.Custom_video_player/index.html)**
 
 **Special topics covered:**
 
