@@ -156,6 +156,7 @@ Cool loading animation with pure CSS. Animation contains sliding and floating bo
   - Keyframe animations
   - Transform and transform origin
 
+
 ### Running locally
 
 It's so simple. Clone or download the repository, open project directory and open `index.html` in your browser. As I mentioned above, there is not any bundler and all scripts have been injected in the HTML.
