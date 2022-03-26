@@ -2,7 +2,8 @@
 
 ## Practical Front-End Projects with Pure Javascript, CSS, and HTML
 
-A collection of practical, easy to use front-end related projects for enthusiasts and beginners. The main purpose is to learn. The codes are free and always will be.
+A collection of practical, easy to use front-end related projects for enthusiasts and beginners. The main purpose is to learn.
+The codes are free and always will be.
 
 **Notes:**
 
