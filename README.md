@@ -143,6 +143,7 @@ A modern design concept to showcase content in a container with two splitted sec
   - variable
   - relative and absolute positioning
   - use of pseudo classes
+ 
 - JavaScript
   - DOM manipulation
   
