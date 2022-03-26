@@ -15,6 +15,7 @@ A collection of practical, easy to use front-end related projects for enthusiast
 ### Projects
 
 There are 9 developed projects that you can review now.
+
   - [Custom Video Player](#custom-video-player)
   - [Lovely Movies](#lovely-movies)
   - [Note App](#note-app)
