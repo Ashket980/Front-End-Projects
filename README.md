@@ -135,7 +135,7 @@ This is a practical canvas tutorial, a animated wallpaper with circles that move
 
 A modern design concept to showcase content in a container with two splitted sections which will resize on mouse over
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/split-screen/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/09.Split_screen/index.html)**
 
 **Special topics covered:**
 
