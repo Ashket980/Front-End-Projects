@@ -156,6 +156,7 @@ Cool loading animation with pure CSS. Animation contains sliding and floating bo
 **Special topics covered:**
 
 - CSS
+
   - Keyframe animations
   - Transform and transform origin
 
