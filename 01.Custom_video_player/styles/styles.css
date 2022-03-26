@@ -92,6 +92,7 @@
     outline: none;
 }
 
+
 /* Slider in Chrome, Firefox, and Opera */
 .m-video input[type="range"]::-webkit-slider-runnable-track {
     background: rgba(255, 255, 255, 0.6);
