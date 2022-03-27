@@ -58,7 +58,7 @@ A simple movie search website.
 
 A practical note web app to handle categorized notes. There are notes that can have a category for. you can search in notes and edit or remove those.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/notes-app/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/03.Notes_App/index.html)**
 
 **Special topics covered:**
 
