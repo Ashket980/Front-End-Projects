@@ -45,7 +45,7 @@ In this project I customized the video controls and designed them manually. Focu
 
 A simple movie search website.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/lovely-movies/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/02.Lovely_movies/index.html)**
 
 **Special topics covered:**
 
