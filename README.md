@@ -123,7 +123,7 @@ This project is a real messaging app that developed with pure javascript without
 
 This is a practical canvas tutorial, a animated wallpaper with circles that moves on it. The code is full documented and easy to read.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/canvas-wallpaper/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/08.Canvas_Wallpaper/index.html)**
 
 **Special topics covered:**
 
