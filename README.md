@@ -85,7 +85,7 @@ Famous strategy game Othello, known as Reversi, implemented in pure Javascript.
 
 Simulating a quiz in web app.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/quiz-app/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/05.Quiz_app/index.html)**
 
 **Special topics covered:**
 
