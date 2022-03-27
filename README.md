@@ -151,7 +151,7 @@ A modern design concept to showcase content in a container with two splitted sec
 
 Cool loading animation with pure CSS. Animation contains sliding and floating boxes,
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/css-escape-loading-animation/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/11.Css_Escape_Loading_Animation/index.html)**
 
 **Special topics covered:**
 
