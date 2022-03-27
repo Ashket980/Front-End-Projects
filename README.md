@@ -97,7 +97,7 @@ Simulating a quiz in web app.
 
 A simple implementation of a small range slider with pure Javascript.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/simple-range-slider/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/06.Simle_range_slider/index.html)**
 
 **Special topics covered:**
 
