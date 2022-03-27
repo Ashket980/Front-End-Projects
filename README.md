@@ -71,7 +71,7 @@ A practical note web app to handle categorized notes. There are notes that can h
 
 Famous strategy game Othello, known as Reversi, implemented in pure Javascript.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/othello-board-game/)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/04.Othello_board_game/index.html)**
 
 **Special topics covered:**
 
