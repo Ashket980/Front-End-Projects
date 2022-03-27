@@ -160,7 +160,7 @@ Cool loading animation with pure CSS. Animation contains sliding and floating bo
   - Keyframe animations
   - Transform and transform origin
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### New projects are being prepared
 
