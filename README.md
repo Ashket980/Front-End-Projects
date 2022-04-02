@@ -15,7 +15,7 @@ The codes are free and always will be.
 
 ### Projects
 
-There are 9 developed projects that you can review now.
+**There are 9 developed projects that you can review now.**
 
   - [Custom Video Player](#custom-video-player)
   - [Lovely Movies](#lovely-movies)
