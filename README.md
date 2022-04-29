@@ -165,3 +165,4 @@ Cool loading animation with pure CSS. Animation contains sliding and floating bo
 #### New projects are being prepared
 
 I'll try to make this repo very useful. So, I really looking forward to your help and comments to make this better.
+
