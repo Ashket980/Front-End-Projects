@@ -27,6 +27,7 @@ The codes are free and always will be.
   - [Canvas Wallpaper](#canvas-wallpaper)
   - [Split Screen](#split-screen)
   - [Escape Loading Animation](#escape-loading-animation---css)
+  - [Simple Portfolio](#simple-portfolio)
 
 
 ### Custom Video Player 
@@ -152,6 +153,12 @@ A modern design concept to showcase content in a container with two splitted sec
 Cool loading animation with pure CSS. Animation contains sliding and floating boxes,
 
 **[Online Demo](https://ashket980.github.io/Front-End-Projects/11.Css_Escape_Loading_Animation/index.html)**
+
+### Simple Portfolio
+
+A simple portfolio design
+
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/Simple Portfolio/index.html)**
 
 **Special topics covered:**
 
