@@ -154,11 +154,6 @@ Cool loading animation with pure CSS. Animation contains sliding and floating bo
 
 **[Online Demo](https://ashket980.github.io/Front-End-Projects/11.Css_Escape_Loading_Animation/index.html)**
 
-### Simple Portfolio
-
-A simple portfolio design
-
-**[Online Demo](https://ashket980.github.io/Front-End-Projects/Simple_Portfolio/index.html)**
 
 **Special topics covered:**
 
