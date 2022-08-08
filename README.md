@@ -158,7 +158,7 @@ Cool loading animation with pure CSS. Animation contains sliding and floating bo
 
 A simple portfolio design
 
-**[Online Demo](https://ashket980.github.io/Front-End-Projects/Simple Portfolio/index.html)**
+**[Online Demo](https://ashket980.github.io/Front-End-Projects/Simple_Portfolio/index.html)**
 
 **Special topics covered:**
 
